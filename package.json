@@ -1,0 +1,13 @@
+{
+    "name": "hyperword",
+    "version": "0.0.1",
+    "description": "executes specified commands when specified keywords are detected",
+    "main": "index.js",
+    "keywords": [
+        "hyper",
+        "hyperword",
+        "match",
+        "execute"
+    ],
+    "license": "MIT"
+}
